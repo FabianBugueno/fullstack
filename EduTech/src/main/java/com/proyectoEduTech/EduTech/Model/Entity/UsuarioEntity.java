@@ -17,7 +17,7 @@ public class UsuarioEntity {
 
     @Column(name = "nombre")
     private String nombre;
-    private String apellido;    
+    private String apellidos;    
     private String correo;
     private String contrasena:
 }
